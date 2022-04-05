@@ -1,6 +1,6 @@
 Package: TT
 Title: Display Tree Structured Data using Datatable Widget (DT)
-Version: 0.92
+Version: 0.98
 Authors@R: 
     person(given = "Michal",
            family = "Zielaskowski",
@@ -16,8 +16,8 @@ RoxygenNote: 7.1.2
 Depends: R (>= 2.10)
 Imports: DT, dplyr (>= 1.0.0), magrittr, purrr, data.tree, htmlwidgets
 NeedsCompilation: no
-Packaged: 2022-01-08 10:15:25 UTC; mi
+Packaged: 2022-04-05 20:17:36 UTC; mi
 Author: Michal Zielaskowski [aut, cre]
 Maintainer: Michal Zielaskowski <michal.zielaskowski@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-01-10 18:12:51 UTC
+Date/Publication: 2022-04-05 20:42:29 UTC
